@@ -1,1 +1,1 @@
-console.error("Sending out an SOS!")
+console.log("I would be a logger.")
